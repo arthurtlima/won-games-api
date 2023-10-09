@@ -1,8 +1,14 @@
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=4c3eee0af56f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+# Won Games API
 
-# React Avançado - Won Games API
+<p align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/12513621/273469386-28051bfe-89d2-4226-949d-d04199fab10c.svg" width="500" height="150" /></p>
 
-This is the API to create the Won Games Store from [React Avançado course](https://reactavancado.com.br/).
+<p align="center">
+  This is one of the applications developed in the <a href="https://reactavancado.com.br/">React Avançado</a> course.
+</p>
+
+<h4 align="center">
+	🚧 In progress ... 🚀 🚧
+</h4>
 
 ## Requirements
 
@@ -51,7 +57,7 @@ $ curl -X POST http://localhost:1337/games/populate?availability=coming&sort=pop
 
 ## Using dump
 
-First of all, you need to download our [dump.sql](https://github.com/Won-Games/database/raw/master/dump.sql) from our [database repository](https://github.com/Won-Games/database).
+First of all, you need to download our [dump.sql](https://github.com/arthurtlima/won-games-api/blob/main/dump.sql).
 
 1. Create a Postgres database and user:
 
