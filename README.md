@@ -57,7 +57,7 @@ $ curl -X POST http://localhost:1337/games/populate?availability=coming&sort=pop
 
 ## Using dump
 
-First of all, you need to download our [dump.sql](https://github.com/arthurtlima/won-games-api/blob/main/dump.sql).
+First of all, you need to download our [dump.sql](https://github.com/arthurtlima/won-games-database/blob/main/dump.sql) from our [database repository](https://github.com/arthurtlima/won-games-database).
 
 1. Create a Postgres database and user:
 
